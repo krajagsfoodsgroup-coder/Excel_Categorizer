@@ -1,0 +1,35 @@
+=== CHECKING HIDDEN COLUMNS: C:\Users\KRaja\Documents\Code\District_Splitter_Excel(Customer_Number)\Header_Template.xlsx ===
+
+Sheet: Produce
+Column 1: Source - Status: VISIBLE - Width: 19.56
+Column 2: Invoice Number - Status: VISIBLE - Width: 12.89
+Column 3: Invoice Date - Status: VISIBLE - Width: 12.89
+Column 4: Customer Number - Status: VISIBLE - Width: 10.56
+Column 5: Customer Name - Status: VISIBLE - Width: 10.56
+Column 6: Item Number - Status: VISIBLE - Width: 9.89
+Column 7: Product Description - Status: VISIBLE - Width: 34.22
+Column 8: Product Brand - Status: VISIBLE - Width: 22.33
+Column 9: Exception Type - Status: VISIBLE - Width: 10.11
+Column 10: Domestic or Non-Domestic - Status: VISIBLE - Width: 24.11
+Column 11: Unit of Measure - Status: VISIBLE - Width: 11.89
+Column 12: Price Per Unit - Status: VISIBLE - Width: 14.11
+Column 13: Number of Units - Status: VISIBLE - Width: 15.22
+Column 14: Total Amount - Status: VISIBLE - Width: 12.89
+Column 15: PO No  - Status: VISIBLE - Width: 12.89
+
+Sheet: Broadline
+Column 1: Source - Status: VISIBLE - Width: 10.78
+Column 2: Invoice Number - Status: VISIBLE - Width: 12.89
+Column 3: Invoice Date - Status: VISIBLE - Width: 12.89
+Column 4: Customer Number - Status: VISIBLE - Width: 10.56
+Column 5: Customer Name - Status: VISIBLE - Width: 10.56
+Column 6: Item Number - Status: VISIBLE - Width: 9.89
+Column 7: Product Description - Status: VISIBLE - Width: 23.56
+Column 8: Product Brand - Status: VISIBLE - Width: 13.11
+Column 9: Item Category - Status: VISIBLE - Width: 18.67
+Column 10: Exception Type - Status: VISIBLE - Width: 10.11
+Column 11: Domestic or Non-Domestic - Status: VISIBLE - Width: 24.11
+Column 12: Unit of Measure - Status: VISIBLE - Width: 11.89
+Column 13: Price Per Unit - Status: VISIBLE - Width: 14.11
+Column 14: Number of Units - Status: VISIBLE - Width: 5.78
+Column 15: Total Amount - Status: VISIBLE - Width: 12.89
